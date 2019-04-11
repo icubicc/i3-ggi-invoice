@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a08844e6-dcf9-4748-ad54-25e4a5c04c17" name="Default" comment="" />
+    <ignored path="bookingtogo-invoice.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="bookingtogo-invoice" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="invoice.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/invoice.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.45487365">
+              <caret line="112" column="81" selection-start-line="112" selection-start-column="81" selection-end-line="112" selection-end-column="81" />
+              <folding>
+                <element signature="e#931#989#0#HTML" expanded="true" />
+                <element signature="e#1007#1060#0#HTML" expanded="true" />
+                <element signature="e#1074#1095#0#HTML" expanded="true" />
+                <element signature="e#1119#1192#0#HTML" expanded="true" />
+                <element signature="e#1209#1228#0#HTML" expanded="true" />
+                <element signature="e#1271#1380#0#HTML" expanded="true" />
+                <element signature="e#1401#1426#0#HTML" expanded="true" />
+                <element signature="e#1458#1483#0#HTML" expanded="true" />
+                <element signature="e#1543#1568#0#HTML" expanded="true" />
+                <element signature="e#1656#1715#0#HTML" expanded="true" />
+                <element signature="e#1738#1761#0#HTML" expanded="true" />
+                <element signature="e#1947#1971#0#HTML" expanded="true" />
+                <element signature="e#2014#2037#0#HTML" expanded="true" />
+                <element signature="e#2069#2094#0#HTML" expanded="true" />
+                <element signature="e#2157#2181#0#HTML" expanded="true" />
+                <element signature="e#2242#2271#0#HTML" expanded="true" />
+                <element signature="e#2278#2317#0#HTML" expanded="true" />
+                <element signature="e#2843#2870#0#HTML" expanded="true" />
+                <element signature="e#2900#2924#0#HTML" expanded="true" />
+                <element signature="e#2985#3014#0#HTML" expanded="true" />
+                <element signature="e#3021#3060#0#HTML" expanded="true" />
+                <element signature="e#3655#3697#0#HTML" expanded="true" />
+                <element signature="e#3719#3748#0#HTML" expanded="true" />
+                <element signature="e#3755#3794#0#HTML" expanded="true" />
+                <element signature="e#3867#3892#0#HTML" expanded="true" />
+                <element signature="e#4105#4147#0#HTML" expanded="true" />
+                <element signature="e#4169#4198#0#HTML" expanded="true" />
+                <element signature="e#4205#4244#0#HTML" expanded="true" />
+                <element signature="e#4384#4409#0#HTML" expanded="true" />
+                <element signature="e#6148#6188#0#HTML" expanded="true" />
+                <element signature="e#6243#6267#0#HTML" expanded="true" />
+                <element signature="e#6340#6397#0#HTML" expanded="true" />
+                <element signature="e#6453#6510#0#HTML" expanded="true" />
+                <element signature="e#6620#6687#0#HTML" expanded="true" />
+                <element signature="e#6738#6786#0#HTML" expanded="true" />
+                <element signature="e#6831#6899#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/invoice.html" />
+        <option value="$PROJECT_DIR$/invoice.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bookingtogo-invoice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bookingtogo-invoice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bookingtogo-invoice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\front-dev\bookingtogo-invoice" />
+    </key>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a08844e6-dcf9-4748-ad54-25e4a5c04c17" name="Default" comment="" />
+      <created>1520924791179</created>
+      <option name="number" value="Default" />
+      <updated>1520924791179</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/invoice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#931#989#0#HTML" expanded="true" />
+            <element signature="e#1007#1060#0#HTML" expanded="true" />
+            <element signature="e#1074#1095#0#HTML" expanded="true" />
+            <element signature="e#1119#1192#0#HTML" expanded="true" />
+            <element signature="e#1209#1228#0#HTML" expanded="true" />
+            <element signature="e#1271#1380#0#HTML" expanded="true" />
+            <element signature="e#1401#1426#0#HTML" expanded="true" />
+            <element signature="e#1458#1483#0#HTML" expanded="true" />
+            <element signature="e#1543#1568#0#HTML" expanded="true" />
+            <element signature="e#1656#1715#0#HTML" expanded="true" />
+            <element signature="e#1738#1761#0#HTML" expanded="true" />
+            <element signature="e#1947#1971#0#HTML" expanded="true" />
+            <element signature="e#2014#2037#0#HTML" expanded="true" />
+            <element signature="e#2069#2094#0#HTML" expanded="true" />
+            <element signature="e#2157#2181#0#HTML" expanded="true" />
+            <element signature="e#2242#2271#0#HTML" expanded="true" />
+            <element signature="e#2278#2317#0#HTML" expanded="true" />
+            <element signature="e#2843#2870#0#HTML" expanded="true" />
+            <element signature="e#2900#2924#0#HTML" expanded="true" />
+            <element signature="e#2985#3014#0#HTML" expanded="true" />
+            <element signature="e#3021#3060#0#HTML" expanded="true" />
+            <element signature="e#3655#3697#0#HTML" expanded="true" />
+            <element signature="e#3719#3748#0#HTML" expanded="true" />
+            <element signature="e#3755#3794#0#HTML" expanded="true" />
+            <element signature="e#3867#3892#0#HTML" expanded="true" />
+            <element signature="e#4105#4147#0#HTML" expanded="true" />
+            <element signature="e#4169#4198#0#HTML" expanded="true" />
+            <element signature="e#4205#4244#0#HTML" expanded="true" />
+            <element signature="e#4384#4409#0#HTML" expanded="true" />
+            <element signature="e#6148#6188#0#HTML" expanded="true" />
+            <element signature="e#6243#6267#0#HTML" expanded="true" />
+            <element signature="e#6340#6397#0#HTML" expanded="true" />
+            <element signature="e#6453#6510#0#HTML" expanded="true" />
+            <element signature="e#6620#6687#0#HTML" expanded="true" />
+            <element signature="e#6738#6786#0#HTML" expanded="true" />
+            <element signature="e#6831#6899#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php_to_pdf/_class/myPdf.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php_to_pdf/html2pdf.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.70567983">
+          <caret line="126" column="24" selection-start-line="126" selection-start-column="24" selection-end-line="126" selection-end-column="24" />
+          <folding>
+            <marker date="1306477386000" expanded="true" signature="20120:20405" placeholder="..." />
+            <marker date="1306477386000" expanded="true" signature="20131:20297" placeholder="..." />
+            <marker date="1306477386000" expanded="false" signature="20316:20371" placeholder="..." />
+            <marker date="1306477386000" expanded="true" signature="20372:20397" placeholder="..." />
+            <marker date="1306477386000" expanded="true" signature="26967:26986" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/invoice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45487365">
+          <caret line="112" column="81" selection-start-line="112" selection-start-column="81" selection-end-line="112" selection-end-column="81" />
+          <folding>
+            <element signature="e#931#989#0#HTML" expanded="true" />
+            <element signature="e#1007#1060#0#HTML" expanded="true" />
+            <element signature="e#1074#1095#0#HTML" expanded="true" />
+            <element signature="e#1119#1192#0#HTML" expanded="true" />
+            <element signature="e#1209#1228#0#HTML" expanded="true" />
+            <element signature="e#1271#1380#0#HTML" expanded="true" />
+            <element signature="e#1401#1426#0#HTML" expanded="true" />
+            <element signature="e#1458#1483#0#HTML" expanded="true" />
+            <element signature="e#1543#1568#0#HTML" expanded="true" />
+            <element signature="e#1656#1715#0#HTML" expanded="true" />
+            <element signature="e#1738#1761#0#HTML" expanded="true" />
+            <element signature="e#1947#1971#0#HTML" expanded="true" />
+            <element signature="e#2014#2037#0#HTML" expanded="true" />
+            <element signature="e#2069#2094#0#HTML" expanded="true" />
+            <element signature="e#2157#2181#0#HTML" expanded="true" />
+            <element signature="e#2242#2271#0#HTML" expanded="true" />
+            <element signature="e#2278#2317#0#HTML" expanded="true" />
+            <element signature="e#2843#2870#0#HTML" expanded="true" />
+            <element signature="e#2900#2924#0#HTML" expanded="true" />
+            <element signature="e#2985#3014#0#HTML" expanded="true" />
+            <element signature="e#3021#3060#0#HTML" expanded="true" />
+            <element signature="e#3655#3697#0#HTML" expanded="true" />
+            <element signature="e#3719#3748#0#HTML" expanded="true" />
+            <element signature="e#3755#3794#0#HTML" expanded="true" />
+            <element signature="e#3867#3892#0#HTML" expanded="true" />
+            <element signature="e#4105#4147#0#HTML" expanded="true" />
+            <element signature="e#4169#4198#0#HTML" expanded="true" />
+            <element signature="e#4205#4244#0#HTML" expanded="true" />
+            <element signature="e#4384#4409#0#HTML" expanded="true" />
+            <element signature="e#6148#6188#0#HTML" expanded="true" />
+            <element signature="e#6243#6267#0#HTML" expanded="true" />
+            <element signature="e#6340#6397#0#HTML" expanded="true" />
+            <element signature="e#6453#6510#0#HTML" expanded="true" />
+            <element signature="e#6620#6687#0#HTML" expanded="true" />
+            <element signature="e#6738#6786#0#HTML" expanded="true" />
+            <element signature="e#6831#6899#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
